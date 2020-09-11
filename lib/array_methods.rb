@@ -4,7 +4,7 @@ end
 
 def using_sort(array)
  elements = ["fire", "earth", "wind", "water"]
- 
+ elements.sort
 end
 
 def using_reverse(array)
